@@ -1,4 +1,4 @@
-window=global;
+// window=global;
 
 //补环境代码已注释
 //课程报名请联系小肩膀
@@ -3716,3 +3716,4 @@ window.xjb=null;
 var anti_contnt = xjb(5);
 result = new anti_contnt({serverTime: new Date().getTime()});
 console.log(result.messagePack());
+
